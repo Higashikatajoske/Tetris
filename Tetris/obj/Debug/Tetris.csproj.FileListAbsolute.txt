@@ -1,0 +1,42 @@
+C:\Users\Alex\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Alex\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Alex\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Alex\source\repos\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Alex\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\ТПУ документы\3 Семестр\Практика\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\ТПУ документы\3 Семестр\Практика\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\ТПУ документы\3 Семестр\Практика\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\ТПУ документы\3 Семестр\Практика\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+F:\ТПУ документы\3 Семестр\Практика\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\ТПУ документы\3 Семестр\Практика\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\ТПУ документы\3 Семестр\Практика\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Nikolay\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Nikolay\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Nikolay\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Nikolay\source\repos\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Nikolay\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Professional\Desktop\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Professional\Desktop\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Professional\Desktop\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Professional\Desktop\repos\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Professional\Desktop\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Программы Visual Studio\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Программы Visual Studio\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Программы Visual Studio\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Программы Visual Studio\repos\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\Программы Visual Studio\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\Программы Visual Studio\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Программы Visual Studio\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Projects\Visual Studio\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Projects\Visual Studio\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Projects\Visual Studio\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Projects\Visual Studio\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Projects\Visual Studio\Tetris\Tetris\obj\Debug\Tetris.pdb
